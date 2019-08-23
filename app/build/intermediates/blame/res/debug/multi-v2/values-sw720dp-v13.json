@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234005890490",
+    "firebase_url": "https://hidden-call-recorder-e1b40.firebaseio.com",
+    "project_id": "hidden-call-recorder-e1b40",
+    "storage_bucket": "hidden-call-recorder-e1b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234005890490:android:8f74fdc29b0c1d14",
+        "android_client_info": {
+          "package_name": "com.hidden.recorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234005890490-i3uub6r4vjv2ofhp9471kta9gb1lbibt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hidden.recorder",
+            "certificate_hash": "198ecfcf491e2d12a1ac9542325430f0f0a862b1"
+          }
+        },
+        {
+          "client_id": "234005890490-iu59ies93nmqo7gdaa7ni6bl8ecpcjg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LKC0bl19LlC7DPmnNFXjUDlLEa-psnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234005890490-iu59ies93nmqo7gdaa7ni6bl8ecpcjg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

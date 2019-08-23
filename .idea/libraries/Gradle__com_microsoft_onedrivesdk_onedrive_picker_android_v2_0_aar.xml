@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.onedrivesdk:onedrive-picker-android:v2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1c017004e956a9cc42896d0caaa1373/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1c017004e956a9cc42896d0caaa1373/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.onedrivesdk/onedrive-picker-android/v2.0/2a4eabf92010db689db4f8da4b559d6868b79fc3/onedrive-picker-android-v2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

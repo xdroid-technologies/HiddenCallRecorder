@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Oct 13 14:04:28 PKT 2018
+1.base=C\:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+1.path=waltographUI.ttf

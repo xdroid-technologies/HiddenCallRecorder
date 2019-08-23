@@ -1,0 +1,4 @@
+#Sat Oct 13 14:04:27 PKT 2018
+base.0=C\:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

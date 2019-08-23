@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ali Hamza\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\65f49b4fa443d17490bc17c18404fbcb\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ali Hamza\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\65f49b4fa443d17490bc17c18404fbcb\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

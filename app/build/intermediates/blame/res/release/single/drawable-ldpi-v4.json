@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_settings_white_24dp.png",
+        "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\drawable-ldpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\toolbar_background.xml",
+        "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\drawable-ldpi\\toolbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\lock_background.xml",
+        "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\drawable-ldpi\\lock_background.xml"
+    }
+]

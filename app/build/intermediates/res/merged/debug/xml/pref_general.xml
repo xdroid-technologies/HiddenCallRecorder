@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Normal">
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="STATE"
+        android:summary="Toogle switch to turn on recording."
+        android:title="Turn on Recording" /></PreferenceCategory>
+    <PreferenceCategory android:title="Security">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="LOCK"
+            android:summary="Toogle switch to enable app lock. "
+            android:title="App lock" />
+        <Preference
+            android:key="changepassword"
+            android:title="Change Lock Password"
+            android:summary="Click to change the Pattern / Pin."/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Advance">
+
+    <ListPreference
+        android:defaultValue="2"
+        android:entries="@array/pref_example_list_titles"
+        android:entryValues="@array/pref_example_list_values"
+        android:key="RECORDER"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="Select Recording Source" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

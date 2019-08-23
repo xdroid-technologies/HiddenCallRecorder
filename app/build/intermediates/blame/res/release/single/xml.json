@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_general.xml",
+        "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\xml\\my_admin.xml",
+        "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\xml\\my_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\build\\intermediates\\res\\merged\\release\\xml\\searchable.xml",
+        "source": "C:\\Users\\Ali Hamza\\Systems Junction\\FinalRecorder\\app\\src\\main\\res\\xml\\searchable.xml"
+    }
+]
